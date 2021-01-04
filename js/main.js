@@ -3,7 +3,7 @@ var api = "https://www.fly3949.com/";
 $(document).ready(function () {
     $(".loading").hide();
     getAchives();
-    gethitokoto();
+    getHitokoto();
 });
 
 $('.menu a').click(function () {
