@@ -53,7 +53,7 @@ function write(text) {
     if (text.length < 30) {
         $('#hitokoto').html(text);
     } else {
-        gethitokoto();
+        getHitokoto();
     }
 }
 
