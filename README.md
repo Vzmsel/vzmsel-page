@@ -1,8 +1,3 @@
-# vzmsel.github.io
-> Vzmsel 的个人主页
+# Vzmsel 的个人主页
 
-## 原作者Fly3949的授权协议
-
-* 仅限非商业使用
-* 允许二次修改
-* 需要在网页合适的位置注明作者信息或本项目地址
+> 来源 [Fly3949 ](https://github.com/fly3949/fly.moe)
